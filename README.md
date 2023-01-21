@@ -20,7 +20,9 @@
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) 
 
 #### &#x1f4c8; Github Stats
-
+<a href="https://github.com/Ameliaaaaaaa">
+  <img align="center" src="https://github-stats-alpha.vercel.app/api?username=Ameliaaaaaaa&cc=1d1f21&tc=c9cacc&ic=fff&bc=0000" />
+</a>
 <a href="https://github.com/Ameliaaaaaaa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameliaaaaaaa&hide=c,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
